@@ -1,4 +1,4 @@
-//*
+/*
 Program to convert the stack array into queue
 Uses two arrays ,  arr_stack is popped and the items are pushed in converted_queue
 converted_queue can be popped to get the functionality of queue. i.e FIFO
