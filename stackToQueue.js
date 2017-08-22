@@ -1,11 +1,12 @@
 /*
+Test Pull
 Program to convert the stack array into queue
 Uses two arrays ,  arr_stack is popped and the items are pushed in converted_queue
 converted_queue can be popped to get the functionality of queue. i.e FIFO
 */
 
 var arr_stack = ["Banana", "Orange", "Apple", "Mango"];
-console.log("stack array display : "+arr_stack);
+console.log("stack array display added for test pull: "+arr_stack);
 var popped_queueItem = popQueue(arr_stack);
 console.log("Queue popped  : "+popped_queueItem);
 
